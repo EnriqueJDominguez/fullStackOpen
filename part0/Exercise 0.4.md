@@ -33,5 +33,3 @@ sequenceDiagram
     activate server
     server-->>browser: Updated list of notes (including the new one)
     deactivate server
-
-    Note right of browser: Browser renders the updated list of notes
